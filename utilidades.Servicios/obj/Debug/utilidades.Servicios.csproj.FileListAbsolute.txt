@@ -1,0 +1,11 @@
+D:\utilidad\utilidades.Servicios\bin\Debug\utilidades.Servicios.dll
+D:\utilidad\utilidades.Servicios\bin\Debug\utilidades.Servicios.pdb
+D:\utilidad\utilidades.Servicios\bin\Debug\utilidades.Entidades.dll
+D:\utilidad\utilidades.Servicios\bin\Debug\utilidades.Entidades.pdb
+D:\utilidad\utilidades.Servicios\obj\Debug\utilidades.Servicios.csprojAssemblyReference.cache
+D:\utilidad\utilidades.Servicios\obj\Debug\utilidades.Servicios.csproj.CoreCompileInputs.cache
+D:\utilidad\utilidades.Servicios\obj\Debug\utilidades.Servicios.csproj.CopyComplete
+D:\utilidad\utilidades.Servicios\obj\Debug\utilidades.Servicios.dll
+D:\utilidad\utilidades.Servicios\obj\Debug\utilidades.Servicios.pdb
+D:\utilidad\utilidades.Servicios\bin\Debug\utilidades.utils.dll
+D:\utilidad\utilidades.Servicios\bin\Debug\utilidades.utils.pdb

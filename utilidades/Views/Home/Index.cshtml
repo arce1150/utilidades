@@ -1,0 +1,34 @@
+﻿@model  List<utilidades.Entidades.ProcedimientoBe>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        .ta8 {
+            width: 100%;
+            height: 200px;
+            border: 1px solid #3366FF;
+            border-left: 4px solid #3366FF;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="CodeMirror-code" style="">
+        @{
+            foreach (var item in Model)
+            {
+                <p>@item.Procedimiento</p>
+                <textarea class="ta8" cols="20" name="ta8" rows="1">@item.Texto</textarea>
+            }
+
+        }
+
+    </div>
+</body>
+</html>
